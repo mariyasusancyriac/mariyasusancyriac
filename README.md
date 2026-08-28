@@ -42,19 +42,20 @@ Authored and presented research on "Competency-Based & Skill-Oriented Education 
 ```
 ### 💬Ask me about
 ```YAML
-Python, SQL, Power BI, Excel, Prompt Engineering, Flutter, Kotlin, and ML fundamentals.
+skills_and_topics: [Python, SQL, MySQL, Power BI, Excel, Prompt Engineering, Flutter, Kotlin, ML fundamentals]
 ```
 ### 🕸️Tech Stack & Arsenal
 ```YAML
 data_science_and_ai:
-  languages: [Python, SQL]
-  analytics_tools: [Power BI, Microsoft Excel]
+  languages: [Python, SQL, MySQL]
+  analytics_and_bi: [Power BI, Microsoft Excel]
+  productivity: [Microsoft Word]
   domains_and_libraries: [Prompt Engineering, Generative AI, SciPy]
 
-app_and_software_engineering:
+software_and_mobile_development:
   mobile: [Flutter, Kotlin, Android Studio]
   core_languages: [C, C++]
-  version_control: [Git, GitHub]
+  ide_and_tools: [Visual Studio Code, Git, GitHub]
 ```
 ### 🕸️Certifications & Honors
 ```YAML
