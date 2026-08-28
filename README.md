@@ -78,4 +78,7 @@ research_and_honors:
     venue: "BVM Holy Cross College"
   - title: "Regional Chess Champion"
     details: "Multiple Interschool & Sahodaya Titles"
-
+```
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
