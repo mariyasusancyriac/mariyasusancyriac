@@ -97,7 +97,9 @@ research_and_honors:
     <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
   </a>
 </div>
+
 ---
+
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg?v=final" alt="3D Contribution Graph" width="100%" />
 </div>
