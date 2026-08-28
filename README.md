@@ -80,6 +80,23 @@ research_and_honors:
   - title: "Regional Chess Champion"
     details: "Multiple Interschool & Sahodaya Titles"
 ```
+---
+
+### ☕ Support My Web-Slinging Journey (Donate)
+
+<div align="center">
+  <p><i>If you find my open-source work, AI dashboards, or mobile projects helpful, consider fueling my coding journey!</i></p>
+
+  <a href="https://buymeacoffee.com/mariyasusancyriac" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/mariyasusancyriac" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+  </a>
+  <a href="https://github.com/sponsors/mariyasusancyriac" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+</div>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg?v=final" alt="3D Contribution Graph" width="100%" />
 </div>
