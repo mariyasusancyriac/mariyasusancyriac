@@ -80,5 +80,5 @@ research_and_honors:
     details: "Multiple Interschool & Sahodaya Titles"
 ```
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D Contribution Graph" width="100%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg?v=final" alt="3D Contribution Graph" width="100%" />
 </div>
