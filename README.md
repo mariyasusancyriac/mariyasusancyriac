@@ -2,7 +2,7 @@
 
   <!-- Personalized Spider-Man Themed Typing Banner -->
   <a href="https://github.com/mariyasusancyriac">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=820&lines=Oh+hi!+Just+working+on+some+projects.;Standard+Spider-Man--I+mean+developer+business.;I'm+Mariya+Susan+Cyriac;Exploring+the+Frontiers+of+GenAI+%26+Data;Transforming+Data+into+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=820&lines=Oh+hi!+Just+working+on+some+projects.;Standard+Spidy--I+mean+developer+business.;I'm+Mariya+Susan+Cyriac;Exploring+the+Frontiers+of+GenAI+%26+Data;Transforming+Data+into+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <!-- Profile Visitor Counter & Location Badge -->
