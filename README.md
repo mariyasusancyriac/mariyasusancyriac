@@ -29,7 +29,7 @@ focus_areas: [Artificial Intelligence, Machine Learning, Data Analytics, Prompt 
 internships:
   - Data Analyst Intern @ Axlero Innovative Solutions
   - Android Development Intern @ SkillCraft Technology
-motto: "With great data comes great responsibility."
+motto: "With great data comes great opportunities."
 🕷️ Currently Working On: Advanced data analytics dashboards, GenAI workflows, and intelligent mobile apps.
 ```
 ### 🎓Education
